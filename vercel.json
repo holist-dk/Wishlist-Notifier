@@ -1,4 +1,4 @@
-﻿{
+{
   "crons": [{ "path": "/api/wishlist", "schedule": "0 4 * * *" }],
   "functions": { "api/wishlist.js": { "maxDuration": 60 } }
 }
